@@ -1,0 +1,6 @@
+a=int(input("enter a: "))
+if(a>=18):
+    print("Eligible for Vote")
+else:
+    print("NOt Eligible")
+    
